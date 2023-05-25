@@ -9,6 +9,7 @@
   - [3. Install Expo Screen Orientation (Optional)](#3-install-expo-screen-orientation-optional)
   - [4. Install React Navigation](#4-install-react-navigation)
   - [5. Install Stack Navigator](#5-install-stack-navigator)
+  - [5. Install Axios](#5-install-axios)
 
 ## 1. Create Expo Project
 
@@ -45,3 +46,10 @@
   - `$ npx expo install react-native-gesture-handler`
 - Optional
   - `$ npx expo install @react-native-masked-view/masked-view`
+
+## 5. Install Axios
+
+<https://www.npmjs.com/package/axios>
+
+- Run:
+  - `$ npm i axios`
