@@ -67,7 +67,6 @@
 
 - Stable
 
-
 ```bash
 $ npm install apurba-bware/react-native-snap-carousel#5a7f809e921262e4e2f646e8cfc4da85f7bd663d
 ```
@@ -75,5 +74,5 @@ $ npm install apurba-bware/react-native-snap-carousel#5a7f809e921262e4e2f646e8cf
 - If you're using Typescript you should also install type definitions (Optional):
 
 ```bash
-$ npm install -D @types/react-native-new-snap-carousel
+$ npm install --save-dev @types/react-native-new-snap-carousel
 ```
